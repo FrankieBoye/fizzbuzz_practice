@@ -10,6 +10,6 @@ describe 'fizzbuzz' do
   end
 
   it'returns "Fizzbuzz" when passed a number divisble by 3 and 5' do
-    expect(fizzbuzz(5)).to eq 'Buzz'
+    expect(fizzbuzz(15)).to eq 'Fizzbuzz'
   end
 end
