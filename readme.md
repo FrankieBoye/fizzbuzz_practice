@@ -9,3 +9,5 @@ When passed a number that is a multiple of 5, the program returns the message 'B
 When passed a number that is a multiple of both 3 and 5, the program ignores the previous 2 rules and returns the message 'Fizzbuzz'.
 
 In all other cases, the program simply returns the given number.
+
+<img src="screenshot/Fizzbuzz.png"/>
